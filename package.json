@@ -35,7 +35,10 @@
   "dependencies": {
     "@types/natural": "^0.2.33",
     "@types/node": "^10.5.1",
-    "natural": "^0.6.1"
+    "cheerio": "^1.0.0-rc.5",
+    "fs": "^0.0.1-security",
+    "natural": "^0.6.1",
+    "request": "^2.88.2"
   },
   "keywords": [
     "recipe",
